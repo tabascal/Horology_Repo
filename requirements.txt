@@ -1,3 +1,10 @@
-pandas
-scikit-learn
 streamlit
+ultralytics
+roboflow
+torch
+torchvision
+pillow
+opencv-python
+requests
+numpy
+python-dotenvpandas
